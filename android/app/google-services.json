@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843931067903",
+    "project_id": "empbuddy-c2ca2",
+    "storage_bucket": "empbuddy-c2ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843931067903:android:29cd863074f6bebdc6b3ca",
+        "android_client_info": {
+          "package_name": "com.example.emp_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4JTfemPkrDc0ddzwexDF6dKNZv6hyDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
