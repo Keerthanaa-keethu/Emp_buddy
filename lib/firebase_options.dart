@@ -49,6 +49,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '843931067903',
     projectId: 'empbuddy-c2ca2',
     authDomain: 'empbuddy-c2ca2.firebaseapp.com',
+    databaseURL: 'https://empbuddy-c2ca2-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'empbuddy-c2ca2.appspot.com',
     measurementId: 'G-N2V402SCWK',
   );
@@ -58,6 +59,7 @@ class DefaultFirebaseOptions {
     appId: '1:843931067903:android:29cd863074f6bebdc6b3ca',
     messagingSenderId: '843931067903',
     projectId: 'empbuddy-c2ca2',
+    databaseURL: 'https://empbuddy-c2ca2-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'empbuddy-c2ca2.appspot.com',
   );
 
@@ -66,6 +68,7 @@ class DefaultFirebaseOptions {
     appId: '1:843931067903:ios:f8ce59b827877023c6b3ca',
     messagingSenderId: '843931067903',
     projectId: 'empbuddy-c2ca2',
+    databaseURL: 'https://empbuddy-c2ca2-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'empbuddy-c2ca2.appspot.com',
     iosBundleId: 'com.example.empBuddy',
   );
@@ -75,6 +78,7 @@ class DefaultFirebaseOptions {
     appId: '1:843931067903:ios:5ab9bc6193a5bcadc6b3ca',
     messagingSenderId: '843931067903',
     projectId: 'empbuddy-c2ca2',
+    databaseURL: 'https://empbuddy-c2ca2-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'empbuddy-c2ca2.appspot.com',
     iosBundleId: 'com.example.empBuddy.RunnerTests',
   );
